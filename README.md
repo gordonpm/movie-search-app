@@ -7,7 +7,12 @@
 
 ## Instructions
 
-Search for your favorite movie and get more information about it like release year.
+Search for your favorite movie and get more information about it like release year. 
+To install locally run following from root folder(movie-search-app):
+npm install
+
+To run locally run following from the root folder(movie-search-app):
+node app.js
 
 
 ## Implementation
